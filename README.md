@@ -1,2 +1,2 @@
-# 42-Examrank-04
+# 42-Examrank
 42 Cursus project
