@@ -1,0 +1,11 @@
+# Compiled binary
+microshell
+
+# Object files
+*.o
+*.a
+
+# Editor files
+*.swp
+*~
+.DS_Store
